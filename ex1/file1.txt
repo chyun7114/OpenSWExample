@@ -1,0 +1,8 @@
+Hello
+
+git add .
+git commit -m "커밋 메시지"
+git log로 로그 확인
+git commit -m "2번째 커밋 메시지"
+git checkout <커밋 해시 주소>
+git status -> 현재 파일 상태 확인
